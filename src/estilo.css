@@ -4,6 +4,7 @@
 }
 body{
     font-family:monospace;
+    background-color: pink;
 }
 form{
     position:fixed;
